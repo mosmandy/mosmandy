@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mosmandy
 - 👀 I’m interested in Fullstack development
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on NodeJS, ReactJS, Native React ...
+- 💞️ I’m looking to collaborate on NodeJS, ReactJS, React Native, NextJS
 - 📫 How to reach me on skype : live:.cid.a42629d3773c9235
 
 <!---
